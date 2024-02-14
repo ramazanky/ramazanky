@@ -5,7 +5,7 @@
 <h3 align="center">✒ Hello, I am a high school student in Turkey and I am interning as a full stack web developer.</h3>
 
 <br>
-<h2 align="center"> <a href="ramazanky/phpLib">﹛ MY PHP LIBRARY ﹜</a></h2>
+<h2 align="center"> <a href="https://github.com/ramazanky/phpLib">﹛ MY PHP LIBRARY ﹜</a></h2>
 <br>
 
 <h4 align="left">Languages</h4>
